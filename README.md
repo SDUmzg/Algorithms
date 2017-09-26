@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=E:\IdeaProjects\Algorithms\lib\stdlib.jar -DgroupId=top.alearner  -DartifactId=stdlib -Dversion=1.0 -Dpackaging=jar

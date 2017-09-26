@@ -1,8 +1,5 @@
 package top.alearner;
 
-import top.alearner.Number.Number;
-import top.alearner.matrix.SquareMatrix;
-
 /**
  * Hello world!
  *
@@ -10,6 +7,7 @@ import top.alearner.matrix.SquareMatrix;
 public class App 
 {
     public static void main(String [] args){
-        System.out.println(Number.sqrt(10));
+        System.out.print("Hi, ");
+        System.out.println(". How are you?");
     }
 }
